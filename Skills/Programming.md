@@ -4,14 +4,14 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
+  - Algorithm h
   - Syntax
   - Semantics
   - Abstraction
   - Paradigm
-  - Programm
+  - Programm h
   - Programming paradigm
-  - Programming language
+  - Programming language h
   - Contract
   - Module
   - Library
@@ -19,11 +19,11 @@
   - Component
   - Framework
   - Platform
-  - Source code
+  - Source code h
   - Object code
   - Machine code
   - Microcode
-  - Software engineering
+  - Software engineering h
   - Decomposition
   - Control flow
   - Data flow
@@ -32,15 +32,15 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
+  - Value h
   - Identifier
   - Variable
-  - Constant
+  - Constant h
   - Scalar
   - Literal
   - Expression
   - Heap
-  - Function
+  - Function h
   - Procedure
   - Method
   - Class
@@ -54,7 +54,7 @@
   - Loops
   - Assignment
   - Regular expression
-  - Interface
+  - Interface h
   - Namespaces
   - Call stack
   - Naming conventions
@@ -105,8 +105,8 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
+  - Array h
+  - Structure h
   - Record
   - Enum
   - Instance
@@ -138,7 +138,7 @@
   - IPv4
   - IPv6
   - NAT
-  - URL
+  - URL h
   - URN
   - URI
 - Process and tools
@@ -165,7 +165,7 @@
   - Exception
   - Unittesting
   - git
-  - Github
+  - Github h
   - Docker
   - Kubernetes
   - GCC
@@ -209,7 +209,7 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
+  - Drivers h
   - Kernel
   - Ring
   - Virtual memory
@@ -217,8 +217,8 @@
   - Linux
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS h
+  - Windows h
   - Real-time OS
   - Embedded OS
 - Standards
